@@ -1,0 +1,6 @@
+{
+  "name": "TallyPrime TDL Developer Studio",
+  "description": "An interactive code generator and AI-powered developer assistant for TallyPrime TDL. Design custom fields (e.g., Driver Name, Vehicle Number) for Sales Invoices or other vouchers, generate fully persistent TDL code, and integrate column views into Sales Register reports with step-by-step loading and troubleshooting guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
